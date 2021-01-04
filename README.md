@@ -71,7 +71,7 @@ content of knowledge that can be shared througout the world. Althought a part of
 
 #### Requirements
 
-- Click on the icons and the read me buttons to be provided with further information.
+- Click on the icons and the "read me buttons" to be provided with further information.
 
 
 
