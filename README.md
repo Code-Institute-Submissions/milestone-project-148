@@ -73,6 +73,17 @@ content of knowledge that can be shared througout the world. Althought a part of
 
 - Click on the icons and the "read me buttons" to be provided with further information.
 
+- Use the navbar to navigate yourself through the site and access different locations on the page by clicking the  on the navbar.
+
+- Hover over images for more information.
+
+- Click on the icons to access the social media applications.
+
+- Click on the video to start the video and then reclick is in order to stop the video.
+
+- Use radio buttons for feedback and type a message if you have any questions.
+
+- Type your email adress as it requires you too do it.
 
 
 
