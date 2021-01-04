@@ -52,6 +52,11 @@ content of knowledge that can be shared througout the world. Althought a part of
 
 
 
+### My Goal as a site owner
+
+
+
+
 
 
 
