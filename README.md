@@ -16,24 +16,26 @@ content of knowledge that can be shared througout the world. Althought a part of
 
 #### User Goals
 
-- Find information about serveral types of animals.
+- Find information about **serveral types of animals**.
 
-- Find information about why animals matter.
+- Find information about **why animals matter**.
 
-- Find information about the wildlife in general.
+- Find information about the **wildlife** in general.
 
-- For feedback there is an email-forum provided with radio buttons for better clarification but also to make it visually appealing.
+- For feedback there is an **email-forum provided with radio buttons** for better clarification but also to make it more visually appealing.
 
-- For more information there will exist a ''Read more'' button provided for the users that are more curios and want to access for more depth information.
+- For more information there will exist a **''Read more'' button** provided for the users that are more curios and want to access for more depth information.
 
-- Access a video-clip of animal/animals.
+- Access a **video-clip** of animal/animals.
 
-- Find information about the animal food chain in basis with  images and arrows provided as well as a bit of information provided.
+- Find information about the **animal food chain** in basis with  **images** and **arrows** provided as well as a bit of information provided.
 
-- Find links to social-media such as instagram, youtube, twitter, pinterest and facebook.
+- Find links to **social-media** such as instagram, youtube, twitter, pinterest and facebook.
 
 
-#### User Story
+
+
+
 
 
 
