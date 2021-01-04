@@ -83,7 +83,9 @@ content of knowledge that can be shared througout the world. Althought a part of
 
 - Use **radio buttons** for feedback and type a message if you have any questions.
 
-- Type **email adress** as it requires you too do it.
+- Type **email adress** in the contact forum, its not a must but if you want to give feedback then you ought to do it.
+
+
 
 
 
