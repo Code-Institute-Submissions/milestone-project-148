@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border: 0;
+}
+
+body {
+    font-family:"Oswald", sans-serif;
+    
+}
+
+
+
+/*------------------------------Colors*/
+
+.navbar {
+    background-color:#000000;
+}
+
+a {
+    color:#ffd700;
+}
+
+
+
+
+/*-------------------------------my-header*/
+
+.hero-image{
+    background-color:yellow;
+    height:200px;
+}
+
+
